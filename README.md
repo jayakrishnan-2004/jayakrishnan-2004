@@ -16,15 +16,13 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💻_Frontend_Developer-1e1e2e?style=for-the-badge" />
     
+    <img src="https://img.shields.io/badge/🚀_Open_to_Work-1e1e2e?style=for-the-badge" />
+
     <a href="mailto:YOUR_EMAIL@gmail.com">
       <img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" />
     </a>
-
-    <img src="https://img.shields.io/badge/💻_Frontend_Developer-1e1e2e?style=for-the-badge" />
-
-    <img src="https://img.shields.io/badge/🚀_Open_to_Work-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
@@ -107,19 +105,19 @@
 # 🚀 Featured Projects
 
 ### ❤️ Anniversary Website
-Beautiful romantic anniversary website using HTML, CSS, JavaScript, and Bootstrap with animations, gift box surprise, and memories gallery.
+Romantic anniversary website with animations, gift reveal, and memory slideshow.
 
 ### 🌍 Tour Booking Platform
-Travel booking website with hotel reservations, cab booking, and responsive UI.
+Full travel booking system with responsive UI and modern features.
 
 ### 👨‍💼 Employee Management System
-Modern employee management dashboard with CRUD operations and responsive design.
+CRUD based admin dashboard application.
 
 ### 🍔 Food Delivery App
-React-based food ordering application with cart and checkout functionality.
+React based food ordering platform with cart system.
 
 ### 📅 Attendance Management System
-Secure attendance tracking system with authentication and dashboard.
+Secure system with login and dashboard features.
 
 ---
 
@@ -138,7 +136,6 @@ Secure attendance tracking system with authentication and dashboard.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 # 🎯 Quote
